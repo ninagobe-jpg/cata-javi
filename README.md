@@ -1,29 +1,56 @@
-# La cata de Javi
+# 🧀 La cata de Javi 🐾
 
-Hola Javi. Has sido invitado a una cita aventurera.
+### Hola Javi 👋 Has sido invitado a una cita aventurera 🌙
 
-Te cuento qué ha pasado con esa hermosa tabla de quesos. Llevabas días esperando la cata, y esta noche lo he preparado todo: quesos de distintas familias, pan, algo dulce y una buena dosis de ilusión. Pero alguien (tú sabes quién) probó un trozo antes de tiempo, y ahora mides lo que un bolígrafo.
+Esta noche he preparado una tabla de quesos 🧀, pan 🍞, algo dulce 🍇 y una buena dosis de ilusión ✨.
 
-Tus cartas Pokémon están en el despacho, desprotegidas, y tienes que llegar hasta ellas. Después, de vuelta a la cocina, tendrás que ganarte algo que solo yo puedo darte. Va a ser una noche larga, así que ve con calma.
+Pero alguien probó un trozo antes de tiempo 👀 y ahora mides lo que un bolígrafo 🖊️.
+Tus cartas Pokémon están en el despacho, sin protección 😱, y tienes que ir a salvarlas.
+Después, de vuelta a la cocina, te espera algo que solo yo puedo darte 💋.
 
-## Cómo se juega
+---
 
-Yo narro y leo las escenas en voz alta. Tú decides siempre: en cada escena eliges la opción A o la B. El dado no decide por ti, solo decide si lo consigues.
+## 🎴 Tu sitio de la aventura
 
-- Cuando la opción pide una prueba, tiras 1 dado y le sumas el stat que indique: Ingenio, Valor o Suerte.
-- Fácil = 4 o más. Difícil = 6 o más.
-- Si aparece "automática", no tiras: ya lo tienes gracias a un aliado o a un objeto.
-- Empiezas con 6 Migas. Si las pierdes todas, acabas en la siesta de Rengar.
-- Necesitas 3 Favores para optar a lo que te espera al final.
+Entra desde el móvil y rellena tu carta mientras juegas. Cada vez que consigas algo, **se desbloqueará una carta de tu colección** 🃏✨
 
-Antes de empezar, rellena tu carta de personaje. Ahí anotas tus stats, tus Migas, tus Favores, tus objetos y tus aliados. Es tu registro de la aventura.
+👉 **[Abrir la colección y tu carta](https://ninagobe-jpg.github.io/cata-javi/)** 👈
 
-La partida dura unos 30 o 40 minutos. Al final, la cata. Esa parte sí tiene que salir perfecta.
+---
 
-## Archivos
+## 🎲 Cómo se juega
 
-- `Aventura_Javi_Queso_Diminuto.pdf`: el guion para mí (Nina).
-- `carta_personaje_javi.pdf`: tu carta de personaje, rellenable.
-- `cartas_javi.html`: las cartas de la aventura, una por cada victoria.
+Yo narro y te leo las escenas 📖. Tú decides siempre 🧭: en cada escena eliges la **opción A** o la **opción B**.
+El dado no decide por ti 🙅, solo decide si lo consigues 🎯.
 
-Las cartas son originales, no son de Pokémon.
+| Qué pasa | Qué haces |
+|---|---|
+| 🎯 Hay una prueba | Tiras 1 dado y le sumas tu stat (Ingenio, Valor o Suerte) |
+| 🟢 Fácil | Total de 4 o más |
+| 🔴 Difícil | Total de 6 o más |
+| ⚡ Automática | No tiras, ya lo tienes gracias a un aliado u objeto |
+| 🍞 Migas | Empiezas con 6. Si las pierdes todas, acabas en la siesta de Rengar 😴 |
+| 💜 Favores | Necesitas 3 para optar a lo que te espera al final |
+
+Antes de empezar, reparte tus stats en el sitio de arriba.
+Ahí también anotas tus Migas, Favores, objetos y aliados 📝.
+
+⏱️ La partida dura unos **30 o 40 minutos**.
+Y al final, **la cata** 🧀🍷. Esa parte tiene que salir perfecta 😌.
+
+---
+
+## 🃏 Colección
+
+Hay **13 cartas**. Colecciónalas todas 📚.
+La última es **holográfica** 🌈 y solo se consigue si llegas al final.
+
+---
+
+## 📎 Archivos
+
+- 📄 [Carta de personaje (PDF rellenable)](carta_personaje_javi.pdf)
+
+---
+
+<sub>Hecho con cariño 💛 Las cartas son originales, no son de Pokémon.</sub>
